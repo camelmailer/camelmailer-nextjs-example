@@ -16,7 +16,7 @@ export function SendEmailForm() {
       </label>
       <label style={{ display: 'block', marginTop: '1rem' }}>
         Subject
-        <input style={field} type="text" name="subject" placeholder="Hello from CamelMailer" required />
+        <input style={field} type="text" name="subject" placeholder="Hello from Camelmailer" required />
       </label>
       <label style={{ display: 'block', marginTop: '1rem' }}>
         Message

@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 import type { ReactNode } from 'react';
 
 export const metadata: Metadata = {
-  title: 'CamelMailer + Next.js',
+  title: 'Camelmailer + Next.js',
   description: 'Send an email with a Server Action and useActionState',
 };
 
