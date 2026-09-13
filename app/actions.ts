@@ -1,6 +1,6 @@
 'use server';
 
-import { CamelMailer } from 'camelmailer';
+import { CamelMailer } from '@camelmailer/sdk';
 
 export type SendState = { ok: boolean; message: string } | null;
 
